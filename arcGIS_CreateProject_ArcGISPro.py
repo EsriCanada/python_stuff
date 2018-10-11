@@ -2,7 +2,7 @@ import os, sys, arcpy
 from arcgis.gis import GIS #ArcGIS API for Python
 
 
-#Hardcoded user info:
+#Hardcoded user info REPLACE WITH YOUR OWN :
 portalUrl = r"yourorgaccount.maps.arcgis.com"
 username = "yourusername"
 pwd = "yourpassword"
